@@ -122,7 +122,11 @@ The majority of development for FarmData2 is front-end (i.e. browser-based).  Th
     - [Vue.js Guide](https://vuejs.org/v2/guide): A textual introduction to using Vue.js.
     - [Vue.js Components](https://vueschool.io/courses/vuejs-components-fundamentals): A video-based course that introduces the basics of Vue Components.
     - [Components Basics](https://vuejs.org/v2/guide/components.html): A textual introduction to Vue Components.
-    - [FarmData2 Vue Component Details](https://github.com/DickinsonCollege/FarmData2/blob/main/farmdata2_modules/fd2_tabs/fd2_example/README.md): Information on specifically how FarmData2 uses and tests Vue Components.
+    - [FarmData2 Vue Component Details](https://github.com/DickinsonCollege/FarmData2/blob/main/farmdata2/farmdata2_modules/fd2_example/README.md): Information on specifically how FarmData2 uses and tests Vue Components.
+
+
+
+
 
 ### FarmOS API ###
 
